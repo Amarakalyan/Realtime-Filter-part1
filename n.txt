@@ -1,0 +1,1 @@
+@keyframes is the keyword used when we want to define an animation.
